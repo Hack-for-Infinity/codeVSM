@@ -1,0 +1,4 @@
+project_id = "gyjsxbqghgmjpilkvohh"
+
+[functions.vision-analyze]
+verify_jwt = false
