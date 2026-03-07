@@ -190,11 +190,6 @@ This allows visually impaired users to understand their surroundings through aud
 *Step-by-step instructions for running your project locally.*
 
 ```bash
-# example
-git clone <repo-url>
-cd <project-folder>
-# add your setup/run commands here
-```
 git clone 
 cd vision-Wishper-21-main
 cd frontend
