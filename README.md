@@ -190,7 +190,7 @@ This allows visually impaired users to understand their surroundings through aud
 *Step-by-step instructions for running your project locally.*
 
 ```bash
-git clone 
+git clone https://github.com/Hack-for-Infinity/codeVSM.git
 cd vision-Wishper-21-main
 cd frontend
 npm install
